@@ -8,7 +8,7 @@ header {
 }
 
 img {
-  align-content: center;
+  im: center;
 }
 
 a {
@@ -35,7 +35,7 @@ figcaption {
 }
 
 div {
-  background: #596FFF;
+  background: #FF3636;
   text-align: center;
   width: 25%
 }
