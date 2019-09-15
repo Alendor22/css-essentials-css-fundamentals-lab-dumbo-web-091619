@@ -6,7 +6,8 @@ body {
 header {
   align-content: center;
 }
-nav > a {
+
+a {
   padding: 10px;
   background: rgb(163, 97, 255, 0.75);
 }
