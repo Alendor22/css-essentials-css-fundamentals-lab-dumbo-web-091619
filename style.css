@@ -8,5 +8,5 @@ header {
 }
 nav > a {
   padding: 10px;
-  background-color: rgb(163, 97, 255, 0.75);
+  background: rgb(163, 97, 255, 0.75);
 }
