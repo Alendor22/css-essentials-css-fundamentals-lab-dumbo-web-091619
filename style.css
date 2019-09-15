@@ -7,6 +7,10 @@ header {
   align-content: center;
 }
 
+img {
+  align-content: center;
+}
+
 a {
   padding: 10px;
   background: rgb(163, 97, 255, 0.75);
