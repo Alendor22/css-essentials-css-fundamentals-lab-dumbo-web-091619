@@ -31,6 +31,6 @@ figcaption {
 }
 
 div {
-  background: #596FFF;
-  
+  background: rgb();
+  text-align: center;
 }
