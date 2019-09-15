@@ -20,12 +20,13 @@ figcaption {
 }
 
 a {
-  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
   background: #FF3636;
 }
 
 #featured-property p {
-  align-content: center;
+  text-align: : center;
   width: 800px;
 }
 
