@@ -31,6 +31,10 @@ a {
   width: 800px;
 }
 
+p {
+  text-align: center;
+}
+
 #details {
   display: block;
 }
